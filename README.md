@@ -9,7 +9,7 @@ This repo is for working my way through [Automate the Boring Stuff](https://auto
 ### Timeline 
 - [x] Chapter 0
 - [x] Chapter 1
-- [ ] Chapter 2
+- [x] Chapter 2
 - [ ] Chapter 3
 - [ ] Chapter 5
 - [ ] Chapter 6
