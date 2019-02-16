@@ -7,6 +7,7 @@ This repo is for working my way through [Automate the Boring Stuff](https://auto
 [@cartertrafton](https://github.com/cartertrafton) - cartertrafton@gmail.com
 
 ### Timeline 
+<<<<<<< HEAD
 - [x] Chapter 0 - Introduction
 - [x] Chapter 1 - Python Basics
 - [x] Chapter 2 - Flow Control
