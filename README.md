@@ -13,7 +13,7 @@ This repo is for working my way through [Automate the Boring Stuff](https://auto
 - [x] Chapter 2 - Flow Control
 - [x] Chapter 3 - Functions
 - [x] Chapter 4 - Lists
-- [ ] Chapter 5
+- [x] Chapter 5 - Dictionaries and Structuring Data
 - [ ] Chapter 6
 - [ ] Chapter 7
 - [ ] Chapter 8
